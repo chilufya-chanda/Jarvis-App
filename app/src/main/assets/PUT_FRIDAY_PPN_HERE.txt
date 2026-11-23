@@ -1,0 +1,6 @@
+Put your custom "friday.ppn" wake word file in this folder (delete this
+text file once you do, or leave it — it won't affect the app).
+
+See README.md "Phase 3 Setup" for how to generate friday.ppn for free
+at console.picovoice.ai. "Jarvis" doesn't need a file here — it's
+built into Porcupine already.

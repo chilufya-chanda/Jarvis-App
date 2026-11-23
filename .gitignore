@@ -1,0 +1,35 @@
+# Android Studio
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+build/
+app/build/
+
+# Local Android SDK
+local.properties
+
+# Signing keys
+*.jks
+*.keystore
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Python cache (if applicable)
+__pycache__/
+*.pyc
